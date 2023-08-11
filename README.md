@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
-<h3 align="center">Passionate about knowledge, on a journey through the world of technology where I want to reach the stars.</h3>
+<h3 align="center">Passionate about knowledge, on a journey through the world of technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joy-amorin&label=Profile%20views&color=0e75b6&style=flat" alt="joy-amorin" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
