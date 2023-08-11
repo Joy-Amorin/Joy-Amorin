@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 
 
-![image](https://github.com/joy-amorin/Joy-Amorin/assets/113919575/60716797-0ab9-49ef-8acc-6e540b810498)
+<p align="center">
+  <img src="image.png" alt="Descripción de la imagen">
+</p>
+
 
 <h3 align="center">Passionate about knowledge, on a journey through the world of technology. My goal is to work
 on projects that help the community</h3>
