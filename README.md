@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
-<h3 align="center">Passionate about knowledge, on a journey through the world of technology.</h3>
+<h3 align="center">Passionate about knowledge, on a journey through the world of technology. My goal is to work
+on projects that help the community</h3>
 
 
 <p align="left">
