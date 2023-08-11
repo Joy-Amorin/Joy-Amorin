@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 
+<h3 align="center">Passionate about knowledge, on a journey through the world of technology as a developer student. 
+  My goal is to work on projects that help the community.</h3>
+
 
 ![image](https://github.com/joy-amorin/Joy-Amorin/assets/113919575/60716797-0ab9-49ef-8acc-6e540b810498)
 
-<h3 align="center">Passionate about knowledge, on a journey through the world of technology. My goal is to work
-on projects that help the community</h3>
+
 
 
 <p align="left">
