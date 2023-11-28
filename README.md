@@ -26,7 +26,14 @@ Passionate about music, an art in which I have worked self-taught. My enthusiasm
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://pbs.twimg.com/media/EuWwR2CWQAQ90WL?format=jpg&name=large" alt="C#" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <p align="center">
