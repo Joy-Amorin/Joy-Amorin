@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joy</h1>
+<h1 align="center">Hi, I'm Joy</h1>
 
 ## About Me
 Passionate about music, an art in which I have worked self-taught. My enthusiasm also extends to the digital world and technology, where I have a deep interest in programming as a creative tool.
