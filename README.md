@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 
-<h3 align="center">Passionate about knowledge, on a journey through the world of technology as a developer student. 
-  My goal is to work on projects that help the community.</h3>
+<h3 align="center">Passionate about music, an art in which I have worked self-taught. My enthusiasm also extends to the digital world and technology, where I have a deep interest in programming as a creative tool.</h3>
 
 
-![image](https://github.com/joy-amorin/Joy-Amorin/assets/113919575/60716797-0ab9-49ef-8acc-6e540b810498)
 
+
+
+![joy1](https://github.com/joy-amorin/Joy-Amorin/assets/113919575/801cbe57-9743-4a91-b42e-d4104599852c)
 
 
 
