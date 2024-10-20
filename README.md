@@ -2,6 +2,7 @@
 
 ## About Me
 Passionate about music, an art in which I have worked self-taught. My enthusiasm also extends to the digital world and technology, where I have a deep interest in programming as a creative tool.
+I’m dedicated to learning, building, and developing my programming skills, always looking for opportunities to improve through real projects.
 
 ### Connect with Me
 [LinkedIn](https://www.linkedin.com/in/johana-amorin-bb7992287/) | [Instagram](https://www.instagram.com/joy_amorin_/)
